@@ -12697,7 +12697,7 @@
 		"defname": "VCE_DeepFriedSushi"
 	},
 	{
-		"abr": "human"surimi"",
+		"abr": "humansurimi",
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCE_HumanSurimi"
@@ -19249,7 +19249,7 @@
 		"defname": "RNApparel_Backpack_BearGryllsBearpac"
 	},
 	{
-		"abr": "synergy16"backpack",
+		"abr": "synergy16inbackpack",
 		"price": 333,
 		"category": "Accessories",
 		"defname": "RNApparel_Backpack_WENGERSyngery"
@@ -20281,13 +20281,13 @@
 		"defname": "HRK_SIG338MG_C"
 	},
 	{
-		"abr": "m97"trenchgun"",
+		"abr": "m97trenchgun",
 		"price": 292,
 		"category": "USA",
 		"defname": "HRK_TrenchGunA"
 	},
 	{
-		"abr": "m97"trenchgun"",
+		"abr": "m97trenchgunbayonet",
 		"price": 332,
 		"category": "USA",
 		"defname": "HRK_TrenchGunB"
